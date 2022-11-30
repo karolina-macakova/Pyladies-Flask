@@ -1,21 +1,3 @@
-mojejmeno
-a
-a
-a_
-a_221
- s
- s
-a a
-s ffff
-s ffff
-s ffff
-a
-abcDEF1_
-s ffff
-abcDEF1_
- 
-abcDEF1_
- 
-abcDEF1_
-s ffff
-abcDEF1_
+a12 True aběččěš gg
+sa12 False aběččěš g
+ga12 True aběččěš gg
