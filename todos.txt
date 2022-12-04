@@ -1,3 +1,0 @@
-a12 True aběččěš gg
-sa12 False aběččěš g
-ga12 True aběččěš gg
